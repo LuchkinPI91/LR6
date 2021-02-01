@@ -1,0 +1,13 @@
+C:\Users\gamel\source\repos\labr6\bin\Debug\netcoreapp3.1\labr6.exe
+C:\Users\gamel\source\repos\labr6\bin\Debug\netcoreapp3.1\labr6.deps.json
+C:\Users\gamel\source\repos\labr6\bin\Debug\netcoreapp3.1\labr6.runtimeconfig.json
+C:\Users\gamel\source\repos\labr6\bin\Debug\netcoreapp3.1\labr6.runtimeconfig.dev.json
+C:\Users\gamel\source\repos\labr6\bin\Debug\netcoreapp3.1\labr6.dll
+C:\Users\gamel\source\repos\labr6\bin\Debug\netcoreapp3.1\labr6.pdb
+C:\Users\gamel\source\repos\labr6\obj\Debug\netcoreapp3.1\labr6.csprojAssemblyReference.cache
+C:\Users\gamel\source\repos\labr6\obj\Debug\netcoreapp3.1\labr6.AssemblyInfoInputs.cache
+C:\Users\gamel\source\repos\labr6\obj\Debug\netcoreapp3.1\labr6.AssemblyInfo.cs
+C:\Users\gamel\source\repos\labr6\obj\Debug\netcoreapp3.1\labr6.csproj.CoreCompileInputs.cache
+C:\Users\gamel\source\repos\labr6\obj\Debug\netcoreapp3.1\labr6.dll
+C:\Users\gamel\source\repos\labr6\obj\Debug\netcoreapp3.1\labr6.pdb
+C:\Users\gamel\source\repos\labr6\obj\Debug\netcoreapp3.1\labr6.genruntimeconfig.cache
